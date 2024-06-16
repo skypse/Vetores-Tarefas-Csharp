@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35004.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vetores-Tarefas-Csharp-01", "Vetores-Tarefas-Csharp\Vetores-Tarefas-Csharp-01.csproj", "{7FB7044B-A782-4ED2-AC8F-6C5BD55CF2D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vetores-Tarefas-Csharp-02", "Vetores-Tarefas-Csharp-02\Vetores-Tarefas-Csharp-02.csproj", "{7B9A9F4A-5982-494A-82AB-B2CC025F7B6B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7FB7044B-A782-4ED2-AC8F-6C5BD55CF2D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FB7044B-A782-4ED2-AC8F-6C5BD55CF2D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FB7044B-A782-4ED2-AC8F-6C5BD55CF2D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FB7044B-A782-4ED2-AC8F-6C5BD55CF2D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B9A9F4A-5982-494A-82AB-B2CC025F7B6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B9A9F4A-5982-494A-82AB-B2CC025F7B6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B9A9F4A-5982-494A-82AB-B2CC025F7B6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B9A9F4A-5982-494A-82AB-B2CC025F7B6B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D5E5048E-C9BB-4411-8BAF-1E91D857592B}
+	EndGlobalSection
+EndGlobal
