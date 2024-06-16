@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vetores-Tarefas-Csharp-01",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vetores-Tarefas-Csharp-02", "Vetores-Tarefas-Csharp-02\Vetores-Tarefas-Csharp-02.csproj", "{7B9A9F4A-5982-494A-82AB-B2CC025F7B6B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vetores-Tarefas-Csharp-03", "Vetores-Tarefas-Csharp-03\Vetores-Tarefas-Csharp-03.csproj", "{96F57769-D10C-4319-A01C-3935E7F01BDC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vetores-Tarefas-Csharp-04", "Vetores-Tarefas-Csharp-04\Vetores-Tarefas-Csharp-04.csproj", "{8DC10365-118A-4F23-AAC6-63C7A5644787}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{7B9A9F4A-5982-494A-82AB-B2CC025F7B6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7B9A9F4A-5982-494A-82AB-B2CC025F7B6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7B9A9F4A-5982-494A-82AB-B2CC025F7B6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96F57769-D10C-4319-A01C-3935E7F01BDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96F57769-D10C-4319-A01C-3935E7F01BDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96F57769-D10C-4319-A01C-3935E7F01BDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96F57769-D10C-4319-A01C-3935E7F01BDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DC10365-118A-4F23-AAC6-63C7A5644787}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DC10365-118A-4F23-AAC6-63C7A5644787}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DC10365-118A-4F23-AAC6-63C7A5644787}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DC10365-118A-4F23-AAC6-63C7A5644787}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
